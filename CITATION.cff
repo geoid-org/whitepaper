@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: Dymaxion
+version: v0.0.1-alpha
+date-released: 2023-01-01
+url: "https://github.com/geoid-org/dymaxion"
+message: >-
+  If you use Geoid Dymaxion, please cite it using
+  the metadata from this file.
+type: software
+authors:
+  - given-names: Lars Bastiaan
+    family-names: van Vianen
+    email: lars@scape.agency
+    affiliation: Scape Agency
+    orcid: 'https://orcid.org/0000-0002-8790-8630'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7519058
+    description: 'Pre-release'
