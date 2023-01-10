@@ -1,12 +1,12 @@
 # Project Information
 site_name: Dymaxion
-site_url: https://www.dymaxion.world/
+site_url: https://www.whitepaper.space/
 site_description: Unit Geometry Library
 site_author: Geoid
 
 # Repository
 repo_name: 'GitHub'
-repo_url: https://github.com/geoid-org/dymaxion/
+repo_url: https://github.com/geoid-org/geoid-whitepaper/
 edit_uri_template: 'docs/{path}'
 
 dev_addr: 127.0.0.1:8888
@@ -95,9 +95,9 @@ plugins:
 # Customization
 extra:
   generator: false
-  analytics:
-    provider: google
-    property: G-6FEJJ20F68
+  # analytics:
+    # provider: google
+    # property: G-6FEJJ20F68
   social:
     - icon: fontawesome/solid/globe 
       link: https://www.geoid.org
@@ -173,15 +173,6 @@ markdown_extensions:
 nav:
   - Introduction:
     - 'index.md'
-  - Quick Start: 'quick_start.md'
-  - Reference:
-    - 'reference/index.md'
-    - Polyhedron:
-      - 'Tetrahedron': 'reference/polyhedron/tetrahedron.md'
-      - 'Cube': 'reference/polyhedron/cube.md'
-      - 'Octahedron': 'reference/polyhedron/octahedron.md'
-      - 'Icosahedron': 'reference/polyhedron/icosahedron.md'
-      - 'Dodecahedron': 'reference/polyhedron/dodecahedron.md'
   - Resources:
     - 'Glossary': 'resources/glossary.md'
     - 'Links': 'resources/links.md'
@@ -195,4 +186,3 @@ nav:
       - 'License': 'legal/license.md'
       - 'Privacy Policy': 'legal/privacy_policy.md'
       - 'Disclaimer': 'legal/disclaimer.md'
-
