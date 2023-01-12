@@ -3,7 +3,7 @@
     <img src=".github/images/geoid-logo_light.png" width="20%" height="20%" alt="Geoid Logo">
 </p>
 <h1 align='center' style='border-bottom: none;'>Geoid</h1>
-<h3 align='center'>Whitepaper</h3>
+<h3 align='center'>Geoid Whitepaper</h3>
 </header>
 <br/>
 <div align="center">
@@ -55,7 +55,7 @@
 
 ## About
 
-...
+Tex Template for now...
 
 
 ## Quick Start
