@@ -22,7 +22,6 @@
   [![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat&up_color=green&up_message=online&url=https%3A%2F%2Fwww.geoid.org)](https://www.geoid.org)
   ![build](https://img.shields.io/github/actions/workflow/status/geoid-org/geoid-whitepaper/latex.yml?color=green&label=build)
 
-  ![python](https://img.shields.io/pypi/pyversions/geoid-whitepaper?color=blue&label=python&style=flat)
   ![stars](https://img.shields.io/github/stars/geoid-org/geoid-whitepaper?color=blue&label=stars&style=flat)
   ![forks](https://img.shields.io/github/forks/geoid-org/geoid-whitepaper?color=blue&label=forks&style=flat)
   ![downloads](https://img.shields.io/github/downloads/geoid-org/geoid-whitepaper/total?color=blue&label=downloads&style=flat)
