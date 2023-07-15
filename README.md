@@ -67,6 +67,10 @@ This self-organizing network bridges our virtual and physical environments and i
 
 website: [geoid.org](https://www.geoid.org "Geoid website")
 
+## Revision
+
+- Version 0.1, 2023/01/21, initial publish.
+
 ## Contributing
 
 We'd love for you to contribute and to make **Geoid Whitepaper** even better than it is today!
