@@ -3,8 +3,6 @@
     "extensions": [
         "james-yu.latex-workshop"
     ],
-    "dockerFile": "Dockerfile",
-    "mounts": [
-        "source=${localEnv:HOME}${localEnv:USERPROFILE}/.gitconfig,target=~/.gitconfig,type=bind,consistency=cached"
-    ]
+    "dockerFile": "Dockerfile"
+
 } 
