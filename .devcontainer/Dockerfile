@@ -4,22 +4,21 @@ FROM ubuntu:22.04
 ENV DEBIAN_FRONTEND=noninteractive
 
 # installing texlive and utils
-RUN apt-get update && \
+RUN \
+    apt-get update && \
     apt-get -y install \
         --no-install-recommends \
         locales \
         curl \
         make \
         git \
-        pandoc \
         texlive \
         texlive-latex-extra \
         texlive-latex-recommended \
-        texlive-generic-extra \
+        texlive-bibtex-extra \
         texlive-extra-utils \
         texlive-fonts-extra \
-        texlive-font-utils \
-        texlive-bibtex-extra \
+        pandoc \
         biber \
         latexmk \
         procps \
